@@ -1,0 +1,42 @@
+Problem Statement
+=====================================================
+
+Write a program in C or C++ for computing accurately the factorial of any given non-negative number.  You need to likely use 
+linked lists concepts to perform this computation. 
+
+Find attached Sample input output files 
+
+First line of the input file mentions T that denotes number of numbers for which factorial to be computed. Then follows T 
+non-negative numbers N1 .... NT
+T would be less than 500. Output file contains atleast T lines each corresponding to the factorial value for T given numbers. 
+There may or may not be last line as blank line.
+======================================================
+Input Format:
+T
+N1
+N2
+...
+...
+NT
+Output file format:
+N1 !
+N2 !
+...
+...
+NT !
+
+======================================================
+Sample input:
+4
+5
+15
+25
+50
+Sample Output:
+120
+1307674368000
+15511210043330985984000000
+30414093201713378043612608166064768844377641568960512000000000000
+
+======================================================
+
